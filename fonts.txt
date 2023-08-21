@@ -1,0 +1,4 @@
+noto-fonts-emoji
+    "Iosevka Nerd Font:size=12:style=Regular",
+    "Noto Color Emoji:size=12:antialias=true:autohint=true",
+    "Material Design Icons Desktop:size=11"};
